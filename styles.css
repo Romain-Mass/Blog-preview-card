@@ -4,11 +4,11 @@ body {
 
 div {
 	background-color: white;
-	border-radius: 20px;
+	border-radius: 12px;
 	margin: auto;
 	padding: auto;
-	width: 75%;
-	height: px;
+	width: max-content;
+	height: 855px;
 }
 
 h1:hover {
@@ -17,7 +17,7 @@ h1:hover {
 
 .idea {
 	height: 325px;
-	padding: 10px;
+	padding: 20px;
 	width: max-content;
 }
 
@@ -25,4 +25,12 @@ h1:hover {
 	width: max-content;
 	height: 250px;
 	border-radius: 700px;
+}
+
+h2 {
+	margin: 10px;
+}
+
+h1 {
+	margin: 10px;
 }
