@@ -7,7 +7,7 @@ div {
 	border-radius: 12px;
 	margin: auto;
 	padding: auto;
-	width: max-content;
+	width: 80%;
 	height: 855px;
 }
 
@@ -17,7 +17,7 @@ h1:hover {
 
 .idea {
 	height: 325px;
-	padding: 20px;
+	padding: 25px;
 	width: max-content;
 }
 
@@ -29,8 +29,15 @@ h1:hover {
 
 h2 {
 	margin: 10px;
+	background-color: #f4d04e;
+	border-radius: 5px;
+	width: max-content;
 }
 
 h1 {
+	margin: 10px;
+}
+
+p {
 	margin: 10px;
 }
