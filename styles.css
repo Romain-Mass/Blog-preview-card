@@ -1,0 +1,28 @@
+body {
+	background-color: yellow;
+}
+
+div {
+	background-color: white;
+	border-radius: 20px;
+	margin: auto;
+	padding: auto;
+	width: 75%;
+	height: px;
+}
+
+h1:hover {
+	color: #f4d04e;
+}
+
+.idea {
+	height: 325px;
+	padding: 10px;
+	width: max-content;
+}
+
+.photo {
+	width: max-content;
+	height: 250px;
+	border-radius: 700px;
+}
