@@ -7,7 +7,7 @@ div {
 	border-radius: 12px;
 	margin: auto;
 	padding: auto;
-	width: 80%;
+	width: max-content;
 	height: 855px;
 }
 
